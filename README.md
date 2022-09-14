@@ -42,6 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khwailehfatima&" alt="khwailehfatima" /></p>
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=zaidalshibi&theme=redical">
-</p>
+ 
