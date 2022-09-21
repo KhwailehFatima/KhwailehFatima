@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Fatima Khwaileh</h1>
 <h3 align="center">A passionate Full Stack developer from Jordan</h3>
 
-<h1> <img align="right" width="600" height="400" src="https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif" alt="khwailehfatima"/></h1>
+<h1> <img align="center" width="600" height="400" src="https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif" alt="khwailehfatima"/></h1>
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khwailehfatima&label=Profile%20views&color=0e75b6&style=flat" alt="khwailehfatima" /> </p>
