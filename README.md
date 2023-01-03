@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Fatima Khwaileh</h1>used
+ <h1 align="center">Hi 👋, I'm Fatima Khwaileh</h1>
  
 <h3 align="center">A passionate Full Stack developer from Jordan</h3>
 
